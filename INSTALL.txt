@@ -1,0 +1,10 @@
+Installation Windows
+installation de make : 
+http://sourceforge.net/projects/gnuwin32/files/make/3.81/
+installation de mingw:
+http://sourceforge.net/projects/mingw/?source=typ_redirect
+MAJ variable d’environement:
+windows: “env” -> modifier les variables d’environement: rajouter make et g++ dans path
+Rajouter glut.dll dans windows/system
+make windows dans le dossier du makefile
+
